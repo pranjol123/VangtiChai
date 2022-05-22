@@ -1,3 +1,2 @@
-Bangladeshi Currency Changing Application for android
-Has been made using flutter and Dart
-Tested on nexus emulator
+Bangladeshi Currency Changing Application for android. It has been made using flutter and Dart.
+It was tested on nexus emulator.
